@@ -76,7 +76,7 @@ Think wikipedia, with a different article for each user, depending upon who that
 
 ## General syntax
 
-  All dewdrop messages can begin with any text; the dewDrop portion starts with #ddv2 to identify it as a dewDrop message. The next token should be a one of the verb keywords of the language. The remaining tokens following the verb should be nouns upon which the verb operates.
+  All dewdrop messages can begin with any text; the dewDrop portion starts with #ddv2 to identify it as a dewDrop message. The next token should be one of the verb keywords of the language. The remaining tokens following the verb should be nouns upon which the verb operates.
 
     .* #ddv2 <VERB> <NOUN> [<NOUN> [<NOUN>]]
 
